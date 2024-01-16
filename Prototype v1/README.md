@@ -2,7 +2,7 @@
 
 This version is the first version that was sent to the PCB manufacturer. There are 5 types of PCBs are made:
 
-- Main Power Board
+- [**Main Power Board**](./Main_power_board/)
 - [**Peltier Slave**](./Peltier_slave/)
 - Motor Slave
 - Thermistor Slave

@@ -1,15 +1,15 @@
-# Note: Peltier Slave
+# Note: Main Power Board
 
-<img src="/Prototype v1/Peltier_slave/pics/Peltier_slave.jpg" alt="peltier slave 3D" width="400"/>
+<img src="/Prototype v1/Main_power_board/pics/Main_power_board.jpg" alt="main power board 3D" width="400"/>
 
 
 ### Features
 
-- Input voltage: 4.5v - 44v (with Main Power board: 6v - 20v)
-- Control up to two Peltiers to heat up and cool down with pulse width modulation (PWM) signal. 
-- Connect with up to four 10K thermistors. 
-- Unified Program and Debug Interface (UPDI) pins for programming the board. 
-- I2C connection with the master board. 
+- Input voltage: 6.2v - 20v (1.2v Maximum Dropout Voltage at 800 mA)
+- Regulating the input voltage to 5v. 
+- A main switch to turn on/off the entire system manually. 
+- I2C connection to the master board. 
+- An eneble pin to turn on/off the 
 
 ### Difference with the previous version
 
