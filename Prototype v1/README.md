@@ -3,26 +3,26 @@
 This version is the first version that was sent to the PCB manufacturer. There are 5 types of PCBs are made:
 
 - Main Power Board
-- [Peltier Slave](./Peltier_slave/)
+- [**Peltier Slave**](./Peltier_slave/)
 - Motor Slave
 - Thermistor Slave
 - Heater Slave
 
-### Folder Structure
+## Folder Structure
 
 The manufacturing files for each type of PCB are organized in a folder. A folder includes:
 
 - KiCad project file
 - Gerber files
-- BOM: Components list of this board
-- Centroid file: aka Pick-and-place file. Record the position and orientation of each components. It's usually for assembling PCB.
+- BOM: Components list
+- Centroid file (aka Pick-and-place): Record the position and orientation of each components. It's usually for assembling PCB.
 - Quotation from manufacturer
 - Pictures
 - Design note
 - Schematic
 
 
-### Order PCBs from online manufacture
+## Order PCBs from online manufacture
 
 This verion is ordered from [**PCBWay**](https://www.pcbway.com/). The main process is:
 
