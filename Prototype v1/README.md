@@ -26,7 +26,7 @@ The manufacturing files for each type of PCB are organized in a folder. A folder
 
 This verion is ordered from [**PCBWay**](https://www.pcbway.com/). The main process is:
 
-1. Prepare *Gerber file*, *BOM*, and *Centroid file*. There are some manufacturing limits, pleas check [their capabilities](https://www.pcbway.com/capabilities.html). Also, check [file requirements](https://www.pcbway.com/assembly-file-requirements.html) for preparing BOM and centroid file.
+1. Prepare *Gerber file*, *BOM*, and *Centroid file*. There are some manufacturing limits, please check [their capabilities](https://www.pcbway.com/capabilities.html). Also, check [file requirements](https://www.pcbway.com/assembly-file-requirements.html) for preparing BOM and centroid file.
 
 2. Use **Instant Quote** to submit your order.
 ![Instant quote on website](/Prototype%20v1/assests/instant%20quote_PCBWay.png)
