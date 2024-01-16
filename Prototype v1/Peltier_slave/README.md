@@ -18,7 +18,7 @@ The trace width and via size are reduced because the manufacturer can produce PC
 - Ordinary trace width: 0.4mm
 - Via diameter: 0.5mm
 - Via hole: 0.3mm
-- Try to separate the traces based on different signal transmissions (e.g. PWM, I2C, analog reading). 
+- To decrease the signal interference, I tried to separate the traces based on different signal transmissions (e.g. PWM, I2C, analog reading). 
 
 
 ### Pinout
