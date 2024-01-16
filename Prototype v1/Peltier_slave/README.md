@@ -2,8 +2,6 @@
 
 ![peltier slave 3D](/Prototype%20v1/assests/Peltier_slave.jpg)
 
-<img src="/Prototype v1/assests/Peltier_slave.jpg" alt="peltier slave 3D" width="200"/>
-
 
 ### Features
 
